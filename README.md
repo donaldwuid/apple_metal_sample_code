@@ -1,12 +1,17 @@
 # Apple Metal Sample Code
 
-Collections of Apple official Metal Sample Codes.
+<div align="center">
+   <p><img src="./Documentation/Assets/Metal_3_Logo.png"/></p>
+   <p><font size="8"><b>Collections of Apple official Metal Sample Codes</b></font></p>
+</div>
 
-Main references are: 
- - [Apple - Metal Sample Code](https://developer.apple.com/metal/sample-code/)
- - [Apple - Metal](https://developer.apple.com/documentation/metal)
 
-where the former references the latter.
+
+Samples are collected from official developer.apple.com: 
+ - [1] Metal Sample Code, https://developer.apple.com/metal/sample-code/
+ - [2] Metal Documentation, https://developer.apple.com/documentation/metal
+
+where [1] actually references [2]. This repo's content is also arranged according to [2].
 
 ## License
 
